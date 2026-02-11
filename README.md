@@ -42,6 +42,6 @@ Repo: https://github.com/Outlier1217/kaspa-hackathon-ecommerce-dapp
 ---
 
 ## 🌐 Connect
-- GitHub: https://github.com/Outlier1217  
+- Kaggle: https://www.kaggle.com/mustak1217  
 - LinkedIn: https://www.linkedin.com/in/mustak1217  
 - Telegram: https://t.me/Mustak1217
