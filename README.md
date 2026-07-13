@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mustak%20Aalam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20%7C%20Multi-Chain%20Engineer%20%7C%20DeFi%20Builder&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=BBuilding+Cross-Chain+Commerce+%26+DeFi+Infrastructure;One+Protocol.+Four+Chains.+Zero+Compromise.;Wallet+is+Identity.+Privacy+is+Default.;18%2B+International+Hackathons+%7C+Open+Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cross-Chain+Commerce+%26+DeFi+Infrastructure;One+Protocol.+Four+Chains.+Zero+Compromise.;Wallet+is+Identity.+Privacy+is+Default.;18%2B+International+Hackathons+%7C+Open+Source" alt="Typing SVG" />
 
 <br/>
 
@@ -55,7 +55,7 @@ Most "multi-chain" projects just redeploy one EVM contract with a different RPC.
 `Move` `Rust/Anchor` `Solidity` `Sui` `Aptos` `Solana` `Somnia` `USDC`
 
 [![Repo](https://img.shields.io/badge/GitHub-quilvion--multichain--testnet-181717?style=flat-square&logo=github)](https://github.com/Outlier1217/quilvion-multichain-testnet)
-[![Live](https://img.shields.io/badge/Live%20Demo-quilvion.xyz-0e75b6?style=flat-square)](https://quilvion.xyz)
+[![Live](https://img.shields.io/badge/Live%20Demo-myproj.store-0e75b6?style=flat-square)](https://myproj.store)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=flat-square)](https://github.com/Outlier1217/quilvion-multichain-testnet/blob/main/LICENSE)
 
 ---
@@ -223,8 +223,17 @@ I run **[Outlier Lab](https://www.youtube.com/channel/UCyXiJH72ruQREuti8vI0V7g)*
 
 </div>
 
+---
+
 <div align="center">
-<sub>🔐 Securing my own crypto self-custody with <a href="https://onekey.so/r/Outlierlab">OneKey</a> — open-source hardware wallet.</sub>
+
+### 🔐 Securing My Self-Custody With
+
+[![OneKey](https://img.shields.io/badge/OneKey-Hardware%20Wallet-00D964?style=for-the-badge&logo=bitcoin&logoColor=white)](https://onekey.so/r/Outlierlab)
+
+Open-source hardware wallet · Backed by Coinbase Ventures, YZi Labs, Dragonfly Capital
+[onekey.so/r/Outlierlab](https://onekey.so/r/Outlierlab)
+
 </div>
 
 ---
