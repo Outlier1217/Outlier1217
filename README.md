@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mustak%20Aalam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20%7C%20Multi-Chain%20Engineer%20%7C%20DeFi%20Builder&descAlignY=58&descSize=18&descColor=a0c4ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cross-Chain+Commerce+%26+DeFi+Infrastructure;One+Protocol.+Four+Chains.+Zero+Compromise.;Wallet+is+Identity.+Privacy+is+Default.;18%2B+International+Hackathons+%7C+Open+Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+Cross-Chain+Commerce+%26+DeFi+Infrastructure;One+Protocol.+Four+Chains.+Zero+Compromise.;Wallet+is+Identity.+Privacy+is+Default.;18%2B+International+Hackathons+%7C+Open+Source" alt="Typing SVG" />
 
 <br/>
 
