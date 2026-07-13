@@ -55,7 +55,7 @@ Most "multi-chain" projects just redeploy one EVM contract with a different RPC.
 `Move` `Rust/Anchor` `Solidity` `Sui` `Aptos` `Solana` `Somnia` `USDC`
 
 [![Repo](https://img.shields.io/badge/GitHub-quilvion--multichain--testnet-181717?style=flat-square&logo=github)](https://github.com/Outlier1217/quilvion-multichain-testnet)
-[![Live](https://img.shields.io/badge/Live%20Demo-myproj.store-0e75b6?style=flat-square)](https://myproj.store)
+[![Live](https://img.shields.io/badge/Live%20Demo-quilvion.xyz-0e75b6?style=flat-square)](https://quilvion.xyz)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue?style=flat-square)](https://github.com/Outlier1217/quilvion-multichain-testnet/blob/main/LICENSE)
 
 ---
